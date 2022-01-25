@@ -87,6 +87,6 @@
 
 ## Images
 
-(/image/sample.png "This is a sample image.")
+![ma photo.](/image/sample.png "This is a sample image.")
 
 https://www.google.fr/
