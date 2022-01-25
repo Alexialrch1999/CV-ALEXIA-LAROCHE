@@ -49,10 +49,15 @@
 ## **Centres d'intérêts**
 
 *Sport :
+
  -10 ans de gymnastique 
+ 
  -2 ans de Krav Maga
+ 
 *Théâtre : 4 ans de pratique
+
 *Cinéma : série et films d'actions en VO (anglais)
+
 *Voyages : Espagne, Angleterre, Portugal, République Tchèque, Etats Unis, Maroc
 
 ## Images
